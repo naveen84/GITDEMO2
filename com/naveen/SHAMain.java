@@ -10,6 +10,7 @@ public class SHAMain {
 		System.out.println("sample line of code from developer side");
 		System.out.println("sample line of code from github");
 		System.out.println("sample line of code from github - 2");
+		System.out.println("sample line of code from github - 3");
 		
 	}
 
